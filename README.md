@@ -1,7 +1,7 @@
 # 8puzzle & 15puzzle
 Python solver for the 8puzzle & 15puzzle game
 
-[Link to Game](mypuzzle.org/sliding)
+[Link to Game](http://www.mypuzzle.org/sliding)
 
 Settings:
 
