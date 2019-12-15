@@ -147,4 +147,3 @@ while winner is not None:
 
 print("--- %s seconds ---" % (time.time() - start_time))
 print("{} Moves.".format(a - 1))
-print(root.misplaced())
