@@ -3,6 +3,10 @@ Python solver for the 8puzzle & 15puzzle game
 
 [Link to Game](http://www.mypuzzle.org/sliding)
 
+Python Version tested: Python 2.7.15+
+
+---
+
 Settings:
 
 INITIAL_BOARD, your start Board
