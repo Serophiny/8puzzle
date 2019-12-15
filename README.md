@@ -1,6 +1,7 @@
 # 8puzzle
 Python solver for the 8puzzle game
 
+[Link to Game](mypuzzle.org/sliding)
 
 Settings:
 
