@@ -17,3 +17,6 @@ MISPLACED == True uses Misplaced (out of tile) heuristic
 May Solve 8Puzzle & 15Puzzle. (15Puzzle will probably need MANHATTAN == True).
 
 
+IMPORTANT:
+
+Printed boards must be read from bottom to top!
