@@ -1,5 +1,5 @@
 # 8puzzle & 15puzzle
-Python solver for the 8puzzle & 15puzzle game
+Python BFS/A* solver for the 8puzzle & 15puzzle game
 
 [Link to Game](http://www.mypuzzle.org/sliding)
 
