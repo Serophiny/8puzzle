@@ -59,16 +59,16 @@ def get_possible_moves(board):
     index = board.index(0)
     moves = []
 
-    if index % LEN_X > 0:
+    if int(index % LEN_X) > 0:
         moves.append((index, index - 1))
 
-    if index % LEN_X < LEN_X - 1:
+    if int(index % LEN_X) < LEN_X - 1:
         moves.append((index, index + 1))
 
-    if index / LEN_X > 0:
+    if int(index / LEN_X) > 0:
         moves.append((index, index - LEN_X))
 
-    if index / LEN_X < LEN_X - 1:
+    if int(index / LEN_X) < LEN_X - 1:
         moves.append((index, index + LEN_X))
 
     return moves
