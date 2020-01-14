@@ -1,7 +1,7 @@
 # 8puzzle & 15puzzle
 Python BFS/A* solver for the 8puzzle & 15puzzle game
 
-[Link to Game](http://www.mypuzzle.org/sliding)
+[Link to Game](http://www.artbylogic.com/puzzles/numSlider/numberShuffle.htm)
 
 Python Version tested: Python 2.7.15+
 
